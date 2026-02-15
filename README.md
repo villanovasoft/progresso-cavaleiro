@@ -14,4 +14,4 @@ Eventually, your age will catch up to you. You will be given an option to presti
 
 ### Where can I play Progresso Knight?
 Progresso Knight can be played on the following site:  
-- [Github Pages](https://villanovasoft.github.io/progress-knight/)  
+- [Github Pages](https://villanovasoft.github.io/progresso-knight/)  
