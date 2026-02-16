@@ -608,7 +608,7 @@ function updateText() {
     document.getElementById("ageDisplay").textContent = daysToYears(gameData.days)
     document.getElementById("dayDisplay").textContent = getDay()
     document.getElementById("lifespanDisplay").textContent = daysToYears(getLifespan())
-    document.getElementById("pauseButton").textContent = gameData.paused ? "Seguir" : "Pausar"
+    document.getElementById("pauseButton").textContent = gameData.paused ? "Jogar" : "Pausar"
 
     formatCoins(gameData.coins, document.getElementById("coinDisplay"))
     setSignDisplay()
