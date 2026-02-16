@@ -132,12 +132,12 @@ const headerRowColors = {
 }
 
 const tooltips = {
-    "Mendigo": "Struggle day and night for a couple of copper coins. It feels like you are at the brink of death each day.",
-    "Camponês": "Plow the fields and grow the crops. It's not much but it's honest work.",
-    "Pescador": "Reel in various fish and sell them for a handful of coins. A relaxing but still a poor paying job.",
-    "Minerador": "Delve into dangerous caverns and mine valuable ores. The pay is quite meager compared to the risk involved.",
-    "Ferreiro": "Smelt ores and carefully forge weapons for the military. A respectable and OK paying commoner job.",
-    "Mercador": "Travel from town to town, bartering fine goods. The job pays decently well and is a lot less manually-intensive.",
+    "Mendigo": "Lute dia e noite por algumas moedas de cobre. É como estar à beira da morte todos os dias.",
+    "Camponês": "Arar os campos e cultivar as plantações. Não é muito, mas é um trabalho honesto.",
+    "Pescador": "Fisgue vários peixes e venda-os por um punhado de moedas. Um trabalho relaxante, mas que paga mal.",
+    "Minerador": "Explore cavernas perigosas e extraia minérios valiosos. O pagamento é bem escasso comparado ao risco envolvido.",
+    "Ferreiro": "Funda minérios e forje armas com cuidado para o exército. Um trabalho de plebeu respeitável e com pagamento razoável.",
+    "Mercador": "Viaje de cidade em cidade, negociando mercadorias finas. O trabalho paga decentemente bem e exige muito menos esforço manual.",
 
     "Squire": "Carry around your knight's shield and sword along the battlefield. Very meager pay but the work experience is quite valuable.",
     "Footman": "Put down your life to battle with enemy soldiers. A courageous, respectable job but you are still worthless in the grand scheme of things.",
