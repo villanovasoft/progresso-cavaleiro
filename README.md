@@ -14,7 +14,7 @@ Eventualmente, a idade chegará para você. Será dada a opção de realizar um 
 
 ### Onde posso jogar O Progresso do Cavaleiro?
 O Progresso do Cavaleiro pode ser jogado no seguinte link:  
-- [Github Pages](https://villanovasoft.github.io/progresso-knight/)
+- [Github Pages](https://villanovasoft.github.io/progresso-cavaleiro/)
 
 ---
 
